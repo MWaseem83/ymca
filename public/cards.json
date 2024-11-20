@@ -1,62 +1,52 @@
 [
     {
-        "name": "First Card",
+        "name": "Youth Basketball League (YBL)",
         "id": 1,
         "imagepath": "YBL-web-360x240.jpg"
     },
     {
-        "name": "Second Card",
+        "name": "Youth Flag Football",
         "id": 2,
         "imagepath": "Flag-Football-360x240.jpg"
     },
     {
-        "name": "Third Card",
+        "name": "Pickleball",
         "id": 3,
         "imagepath": "maxresdefault-2-360x240.jpg"
     },
     {
-        "name": "Foth Card",
+        "name": "Cooking Classes",
         "id": 4,
         "imagepath": "Cooking-basics-360x240.jpg"
     },
     {
-        "name": "Second Card",
+        "name": "Childwatch",
         "id": 5,
         "imagepath": "child-watch-360x240.jpg"
     },
     {
-        "name": "test",
+        "name": "Preschool Summer Programs",
         "id": 6,
         "imagepath": "YMCA-Huntington_Shaltz_selects-1065-2-360x240.jpg"
     },
     {
-        "name": "Foth Card",
+        "name": "My Kids Closet",
         "id": 7,
-        "imagepath": "no-image.jpg"
+        "imagepath": "closet-360x240.jpg"
     },
     {
-        "name": "First Card",
+        "name": "Volleyball",
         "id": 8,
         "imagepath": "volleyball-1-360x240.jpg"
     },
     {
-        "name": "Second Card",
+        "name": "Agility",
         "id": 9,
         "imagepath": "IMG_8965-WEB-360x240.png"
     },
     {
-        "name": "Third Card",
-        "id": 10,
-        "imagepath": "IMG_8965-WEB-360x240.png"
-    },
-    {
-        "name": "Foth Card",
+        "name": "Basketball",
         "id": 11,
-        "imagepath": "programs_kids_sports-360x240.jpg"
-    },
-    {
-        "name": "Second Card",
-        "id": 12,
         "imagepath": "programs_kids_sports-360x240.jpg"
     },
     {
@@ -70,17 +60,12 @@
         "imagepath": "Teresa-Story-360x240.png"
     },
     {
-        "name": "First Card",
-        "id": 15,
-        "imagepath": "YBL-web-360x240.jpg"
-    },
-    {
-        "name": "Second Card",
+        "name": "Youth Flag Football",
         "id": 16,
         "imagepath": "Flag-Football-360x240.jpg"
     },
     {
-        "name": "Third Card",
+        "name": "Pickleball",
         "id": 17,
         "imagepath": "maxresdefault-2-360x240.jpg"
     }
